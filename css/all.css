@@ -1,6 +1,6 @@
 body{
-    background-image: url("https://donghodoapsuat.net/wp-content/uploads/2022/08/hinh-nen-dien-thoai-mau-hong-cute-dep.jpg");
-    background-repeat: no-repeat;
+    /* background-image: url("https://donghodoapsuat.net/wp-content/uploads/2022/08/hinh-nen-dien-thoai-mau-hong-cute-dep.jpg");
+    background-repeat: no-repeat; */
     background-size: 100% 1300px;
 }
 .head{
@@ -48,8 +48,8 @@ body{
     
 }
 .background_thang1{
-    background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/318177701_527167342766514_4746205050936843421_n.png?stp=dst-png_s552x414&_nc_cat=105&ccb=1-7&_nc_sid=aee45a&_nc_ohc=wcM61_0OuyAAX-lRP4f&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTEqIoemlfuFLU1l35NR5zpjsa1dfFzISTcThimK2p6Eg&oe=63BCCFBA");
-    background-size: cover;
+    /* background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/318177701_527167342766514_4746205050936843421_n.png?stp=dst-png_s552x414&_nc_cat=105&ccb=1-7&_nc_sid=aee45a&_nc_ohc=wcM61_0OuyAAX-lRP4f&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTEqIoemlfuFLU1l35NR5zpjsa1dfFzISTcThimK2p6Eg&oe=63BCCFBA");
+    background-size: cover; */
     width: 100%;
     height: 280px;
       background-repeat: no-repeat;
