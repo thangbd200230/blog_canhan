@@ -8,7 +8,7 @@ myApp.config(function ($routeProvider, $locationProvider) {
     .when("/facebook", {
       // lam gi thi lam
       // noi dung cua trang chu
-      templateUrl: "/src/pages/facebook.html",
+      templateUrl: "pages/facebook.html",
       controller: homeController,
     })
     .when("/gioithieu", {
